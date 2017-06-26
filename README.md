@@ -7,3 +7,6 @@
 # suportxmr
 > wget https://raw.githubusercontent.com/suvDanilo/Monero/master/suportxmr.sh && sh suportxmr.sh
 
+# minergate
+> wget https://raw.githubusercontent.com/suvDanilo/Monero/master/minergate.sh && sh minergate.sh
+
